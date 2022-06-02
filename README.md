@@ -1,4 +1,5 @@
-### Olá! Meu nome é Ronaldo, seja bem vindo! 👋
+## Olá! Meu nome é Ronaldo, seja bem vindo! 👋
+#### Estudante de Análise e desenvolvimento de Sistemas na FATEC Praia Grande.
 <!DOCTYPE html>
 <div  align="left"> 
   <a href="https://cabralporto.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/website?label=Portifolio&style=for-the-badge&url=https://cabralporto.github.io/Site/" target="_blank"></a>
