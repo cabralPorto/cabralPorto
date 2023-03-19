@@ -1,4 +1,4 @@
-## Olá! Meu nome é Ronaldo, seja bem vindo! 👋
+## Olá! Meu nome é Ronaldo, seja bem vindo (a)! 👋
 #### Estudante de Análise e desenvolvimento de Sistemas na FATEC Praia Grande.
 <!DOCTYPE html>
 <div  align="left"> 
