@@ -18,6 +18,9 @@
     <P><img align="center" alt="CSS"src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></p>
     <P><img align="center" alt="C#"src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></p>
     <P><img align="center" alt=".NET"src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> </p> 
+    <p><img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
+    <p><img align="center" alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=oracle&logoColor=white" /></p>
+
  </ul>
 </div>
 <br>
